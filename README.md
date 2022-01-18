@@ -1,3 +1,3 @@
-# arduino-serial-reader
+# arduino-serial-reader-l2c
 パソコンなどからシリアル通信をArduinoに送信すると送信されたデータをそのままl2cディスプレイに表示するプログラムです。
 
